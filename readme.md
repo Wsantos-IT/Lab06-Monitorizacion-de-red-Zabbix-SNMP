@@ -53,7 +53,7 @@ Zabbix nos permite támbien crear inventarios, reportes pero la verdad es bastan
 ##  Topología de la Red
 Microsoft Visio
 
-<img width="746" alt="image" src="./Topologia-logica/Lab-06-Topologia-logica.png" />
+<img width="746" alt="image" src="./Topologia-Logica/Lab-06-Topologia-logica.png" />
 
 ###  Subnets
 
